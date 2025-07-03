@@ -1,4 +1,4 @@
-# Chattu - Real-Time MERN Chat Application
+#  Real-Time MERN Chat Application
 
 Chattu is a full-stack real-time chat application built with the MERN stack (MongoDB, Express.js, React, Node.js) and Socket.IO. It supports 1-to-1 and group messaging, file sharing, notifications, friend requests, and admin management features.
 
